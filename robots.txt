@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/anis0711m-code/ahnaf-7x-platform/sitemap.xml
